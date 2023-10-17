@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "REMAN RAJ SAHU",
-  title: "Microsoft Learn Student Ambassador"
+  title: "Microsoft Learn Student Ambassador",
   email: "remanraj.sahu@studentambassadors.com",
   gitHub: "Remanraj",
   instagram: "21_remanraj",
