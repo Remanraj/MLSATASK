@@ -29,8 +29,8 @@ const siteProps = {
   email: "remanraj.sahu@studentambassadors.com",
   gitHub: "Remanraj",
   instagram: "21_remanraj",
-  linkedIn: "reman-raj-sahu,
-  medium: "",
+  linkedIn: "reman-raj-sahu",
+  medium: "REMAN RAJ SAHU",
   twitter: "21remanraj",
   youTube: "REMAN RAJ",
 };
